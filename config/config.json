@@ -1,0 +1,8 @@
+{
+	"user": "postgres",
+	"host": "localhost",
+	"database": "gfgbackend",
+	"password": "postgres",
+	"dialect": "postgres",
+	"port": 5432
+}
